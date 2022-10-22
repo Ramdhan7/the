@@ -1,12 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
 
-##########################################
-#       DIBUAT OLEH JECKO RAMADHAN       #
-#   TEAM XNXCODE, XTCCODE, SYBER SNIPER  #
-# RISKY, AANG XD, YUMASA, SHOLEH, FIRMAN #
-# XENZI X, YUMEE ID, NOPAL XD, NAZRI XD  #
-##########################################
 
 ##########################################
 #          !!! PERINGATAN !!!            #
@@ -159,7 +153,7 @@ def logo(): # <========== LOGO BUAT TAMPILAN JMBFF GTG
 {WARNA_TOD}______________  _____________________________
 {WARNA_TOD}______  /__   |/  /__  __ )__  ____/__  ____/   {J}•{U}--------------------------{J}•
 {WARNA_TOD}___ _  /__  /|_/ /__  __  |_  /_   __  /_       {J}•{N}     MADE IN INDONESIA    {J}•
-{WARNA_TOD}/ /_/ / _  /  / / _  /_/ /_  __/   _  __/       {J}•{N}   JEECK X NANO AND RISKY {J}•
+{WARNA_TOD}/ /_/ / _  /  / / _  /_/ /_  __/   _  __/       {J}•{N}   RAMDHAN RAMADHIAN XD {J}•
 {WARNA_TOD}\____/  /_/  /_/  /_____/ /_/      /_/          {J}•{U}--------------------------{J}•          """) # <========== JANGAN DI UBAH ANJINK
 def log_log(): #<========= LOGO BUAT LOGIN BABI
 	os.system("clear")
@@ -167,7 +161,7 @@ def log_log(): #<========= LOGO BUAT LOGIN BABI
 	WARNA_TOD = random.choice([W,K,I,U])
 	print(f"""
 {WARNA_TOD}______ ___________________________   __________________
-{WARNA_TOD}___  / __  __ \_  ____/___  _/__  | / /__  ____/__  __ \ {U}• {W}JEECK X NANO {U}•
+{WARNA_TOD}___  / __  __ \_  ____/___  _/__  | / /__  ____/__  __ \ {U}• {W}RAMDHAN RAMADHIAN {U}•
 {WARNA_TOD}__  /  _  / / /  / __  __  / __   |/ /__  /_   __  __  |
 {WARNA_TOD}_  /___/ /_/ // /_/ / __/ /  _  /|  / _  __/   _  /_/ /
 {WARNA_TOD}/_____/\____/ \____/  /___/  /_/ |_/  /_/      /_____/
